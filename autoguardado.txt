@@ -1,0 +1,2 @@
+Hola amigos como estan, lo que se hace el dia de hoy es un programa el cual, el programa como tal guarda las palabras del programa cada 5
+segundos tiene que tener las funcionalidades como word, la ventaja de este pr
